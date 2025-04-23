@@ -21,7 +21,7 @@ The following **required** functionality is completed:
     <a href="https://www.loom.com/share/8ef899dd87504315a83a9f7a69739407">
     </a>
     <a href="https://www.loom.com/share/8ef899dd87504315a83a9f7a69739407">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8ef899dd87504315a83a9f7a69739407-b8e47b26237c597a-full-play.gif">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8ef899dd87504315a83a9f7a69739407-1404412cb9790501-full-play.gif">
     </a>
   </div>
 ## App Brainstorming (Step 4)
